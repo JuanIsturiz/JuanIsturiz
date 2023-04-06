@@ -6,7 +6,7 @@ Junior Fullstack and Mobile Developer
 
 I've been learning to code from +2 years, on my path I've been working on projects that involves simple web pages, mostly react applications and REST APIs. Always trying to learn something new to improve as a profesional.
 
-I've started my journey as a frontend developer where I focused mostly on the React.js environment, but my path did'nt end there, backend was the next step so I learned how to implement it with my JavaScript knowledge, now I'm able to do things such as setting up the server, user authentication and manage databases.
+I've started my journey as a frontend developer where I focused mostly on the React.js environment, but my path didn't end there, backend was the next step so I learned how to implement it with my JavaScript knowledge, now I'm able to do things such as setting up the server, user authentication and manage databases.
 
 Later I became curious and started developing mobile apps and ended up making a small social media from scratch.
 
@@ -44,7 +44,3 @@ Later I became curious and started developing mobile apps and ended up making a 
 <a href="https://discord.com/users/juuuaaaaaann#8942" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>    
 <a href="http://www.instagram.com/juanisturiz_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>                 
 <a href="https://www.linkedin.com/in/juan-andrés-felice-isturiz-007725243/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
-
-### 📛 Badges
-
-<a href="https://github.com/JuanIsturiz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIsturiz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
