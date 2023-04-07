@@ -6,7 +6,7 @@ Junior Fullstack and Mobile Developer
 
 I've been learning to code from +2 years, on my path I've been working on projects that involves simple web pages, mostly react applications and REST APIs. Always trying to learn something new to improve as a profesional.
 
-I've started my journey as a frontend developer where I focused mostly on the React.js environment, but my path didn't end there, backend was the next step so I learned how to implement it with my JavaScript knowledge, now I'm able to do things such as setting up the server, user authentication and manage databases.
+I've started my journey as a frontend developer where I focused mostly on the React.js environment, but my path didn't end there, backend was the next step so I learned how to implement it with my JavaScript knowledge, now I'm able to do things such as setting up the server, user authentication, online payments and manage databases.
 
 Later I became curious and started developing mobile apps and ended up making a small social media from scratch.
 
