@@ -1,21 +1,16 @@
-Hi! 👋 I'm Juan Isturiz
+Juan Isturiz
 =============================
 
-Junior Fullstack Developer
+Fullstack Developer
 -------------------------------------
 
-I've been coding from +2 years, on my path I've been working on projects that involves simple web pages, mostly react applications and REST APIs. Always trying to learn something new to improve as a profesional.
+I've been coding for +2 years, on my path I've been working on projects that involves mostly react applications and REST APIs. Always trying to learn something new to improve as a profesional.
 
-I've started my journey as a frontend developer where I focused mostly on the React.js environment, but my path didn't end there, backend was the next step so I learned how to implement it with my JavaScript knowledge, now I'm able to do things such as setting up the server, user authentication, online payments and manage databases.
+I've started my journey as a frontend developer where I focused mostly on the React.js environment, but my path didn't end there, backend was the next step so I learned how to implement it with my JavaScript knowledge, now I'm able to do things such as setting up the server, user authentication, online payments and manage databases. Later I became curious and learned how to develop mobile apps.
 
-Later I became curious and started developing mobile apps and ended up making a small social media from scratch.
+You can contact me at [juanandresisturiz@gmail.com](mailto:juanandresisturiz@gmail.com)
 
-
-*   🧠  Currently learning Docker
-*   ✉️  You can contact me at [juanandresisturiz@gmail.com](mailto:juanandresisturiz@gmail.com)
-*   ⚡  I'm a Tryhard on every aspect.
-
-### 💻 Tech Skills 
+Tech Skills 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
@@ -38,9 +33,13 @@ Later I became curious and started developing mobile apps and ended up making a 
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" /></a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" /></a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="VERCEL" /></a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="NETLIFY" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="DOCKER" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" /></a>
+
                     
-### 🤝 Connect with me              
+Connect with me              
                   
 <p align="left">
 <a href="https://discord.com/users/juuuaaaaaann#8942" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>    
