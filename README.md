@@ -6,7 +6,7 @@ Fullstack Developer
 
 I've been coding for +2 years, on my path I've been working on projects that involves mostly react applications and REST APIs. Always trying to learn something new to improve as a profesional.
 
-I've started my journey as a frontend developer where I focused mostly on the React.js environment, but my path didn't end there, backend was the next step so I learned how to implement it with my JavaScript knowledge, now I'm able to do things such as setting up the server, user authentication, online payments and manage databases. Later I became curious and learned how to develop mobile apps.
+I started my journey as a frontend developer where I focused mostly on the React.js environment, but my path didn't end there, backend was the next step so I learned how to implement it with my JavaScript knowledge, now I'm able to do things such as setting up the server, user authentication, online payments and manage databases. Later I became curious and learned how to develop mobile apps.
 
 You can contact me at [juanandresisturiz@gmail.com](mailto:juanandresisturiz@gmail.com)
 
@@ -28,11 +28,16 @@ Tech Skills
 <a href="https://trpc.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white" alt="tRPC" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" /></a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" alt="Supabase" /></a>
 <a href="https://planetscale.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PlanetScale-000000.svg?style=for-the-badge&logo=PlanetScale&logoColor=white" alt="Planet Scale" /></a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" /></a>
+<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white" alt="Mongoose" /></a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" /></a>
+<a href="https://typeorm.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Typeform-262627.svg?style=for-the-badge&logo=Typeform&logoColor=white" alt="TypeORM" /></a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel" /></a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="VERCEL" /></a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="NETLIFY" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="DOCKER" /></a>
